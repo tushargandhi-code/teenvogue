@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://newp-neon.vercel.app/"),
+  metadataBase: new URL("https://teenvogue-gamma.vercel.app/"),
   title: { default: "Teen Vogue", template: `%s | Teen Vogue` },
   description: "Stay updated with the latest tech and global news.",
   openGraph: {
